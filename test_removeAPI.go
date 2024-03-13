@@ -1,5 +1,5 @@
 package TestAPI
 
-func removeAPI() string {
+func RemoveAPI() string {
 	return "This method will be removed."
 }
